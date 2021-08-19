@@ -17,4 +17,10 @@ demo conflict
 # this is a demo
 
 ![photo](https://st.depositphotos.com/1049691/4267/i/950/depositphotos_42673487-stock-photo-fresh-orange.jpg)
+<<<<<<< HEAD
+
+# About us
+![About my self](https://dcassetcdn.com/design_img/3708895/740247/22333045/myrt26fs4y7e0nhajpzs1tpe4s_image.jpg);
+=======
 >>>>>>> e9e84c67c1ee65336e8dda41e0d3bb4978ae4330
+>>>>>>> d327b1a29a9c9bafcd139d849f1d1a7f86e02b60
