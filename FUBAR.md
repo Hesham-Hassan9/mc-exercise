@@ -5,5 +5,5 @@
 
 ![photo](https://st.depositphotos.com/1049691/4267/i/950/depositphotos_42673487-stock-photo-fresh-orange.jpg)
 
-# About my self
-![About my self](https://i.ytimg.com/vi/aYYyRSiGMV4/maxresdefault.jpg);
+# About us
+![About my self](https://dcassetcdn.com/design_img/3708895/740247/22333045/myrt26fs4y7e0nhajpzs1tpe4s_image.jpg);
